@@ -1,0 +1,4 @@
+pandas
+sqlalchemy
+alpha_vantage
+python-dotenv
